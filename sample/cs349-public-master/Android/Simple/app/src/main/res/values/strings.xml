@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Simple</string>
+    <string name="click_message">Clicked!</string>
+</resources>

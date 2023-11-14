@@ -1,0 +1,3 @@
+interface IViewModel {
+    fun update()
+}
